@@ -1,7 +1,7 @@
 ### hello 👋 my name is erdi👾⚛️
 > “blockchain enthusiast & node runner.”
 ### Contact Me
-> 🌐 [website](https://www.xyznodes.xyz) | 🐦 [twitter](https://twitter.com/erdiningulu) | ✍🏻 [medium](https://dogubey.medium.com/)
+> 🌐 [website](https://www.xyznodes.xyz) | 🐦[twitter](https://twitter.com/erdiningulu) | ✍🏻 [medium](https://dogubey.medium.com/)
 
 ======================================================================================================================================
 
