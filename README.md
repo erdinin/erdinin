@@ -3,7 +3,7 @@
 ### Contact Me
 > 🌐 [website](https://www.xyznodes.xyz) | 🐦[twitter](https://twitter.com/erdiningulu) | ✍🏻 [medium](https://dogubey.medium.com/)
 
-======================================================================================================================================
+<hr />
 
 * 🌍  i'm based in world
 * ✉️  you can contact me at [Twitter](https://twitter.com/erdiningulu)
