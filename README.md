@@ -1,13 +1,13 @@
 ### hello 👋 my name is erdi👾⚛️
 > “blockchain enthusiast & node runner.”
 ### Contact Me
-> 🌐 [website](https://www.xyznodes.xyz) | 🐦[twitter](https://twitter.com/erdiningulu)
+> [website](https://www.xyznodes.xyz) | [twitter](https://twitter.com/erdiningulu)
 
 <hr />
 
-* 🌍  i'm based in world
-* ✉️  you can contact me at [Twitter](https://twitter.com/erdiningulu)
-* ⚛️  i'm currently working on [cosmos ecosystem projects](https://cosmos.network/ecosystem/apps)
+* i'm based in world
+* you can contact me at [Twitter](https://twitter.com/erdiningulu)
+* i'm currently working on [cosmos ecosystem projects](https://cosmos.network/ecosystem/apps)
 
 ### mainnet
 > soon
