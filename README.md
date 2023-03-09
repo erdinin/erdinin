@@ -1,4 +1,4 @@
-👤: ### hello frens 👾⚛️
+### hello frens 👾⚛️
 > “blockchain enthusiast & node runner.”
 - I am trying to contribute to the projects working in the PoS (Proof-of-Stake) network at an early stage.
 - I prepare testnet guides, node installation guides, update guides of projects in Turkish language.
