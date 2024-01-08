@@ -14,6 +14,8 @@
 - Santiment
 - Elixir
 - Dymension
+- Namada
+- PRYZM
 
 ### Contact Me
 > [twitter](https://twitter.com/xyznodes) [website](https://xyznodes.xyz)
