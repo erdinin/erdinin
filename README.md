@@ -8,6 +8,7 @@
 - I’m interested in validating also i’m looking to collaborations to validate and provide value.
 
 ### active testnets
+- Namada
 - ar.io Network
 - Avail Project
 - Subsquid Network
