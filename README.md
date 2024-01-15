@@ -15,7 +15,6 @@
 - Santiment
 - Elixir
 - Dymension
-- Namada
 - PRYZM
 
 ### Contact Me
