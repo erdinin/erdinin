@@ -9,13 +9,13 @@
 
 ### active testnets
 - [Namada](https://namada.net) - Testnet Genesis Validator
-- [ar.io Network](https://ar.io) - Testnet Validtor
-- [Avail Project](https://www.availproject.org) - Testnet Validtor
-- [Subsquid Network](https://subsquid.io) - Testnet Validtor
-- [Santiment](https://sanr.network/) - Testnet Validtor
-- [Elixir](https://elixir.finance) - Testnet Validtor
-- [Dymension](https://dymension.xyz) - Testnet Validtor
-- [PRYZM](https://pryzm.zone) - Testnet Validtor
+- [ar.io Network](https://ar.io) - Testnet Validator
+- [Avail Project](https://www.availproject.org) - Testnet Validator
+- [Subsquid Network](https://subsquid.io) - Testnet Validator
+- [Santiment](https://sanr.network/) - Testnet Validator
+- [Elixir](https://elixir.finance) - Testnet Validator
+- [Dymension](https://dymension.xyz) - Testnet Validator
+- [PRYZM](https://pryzm.zone) - Testnet Validator
 
 ### Contact Me
 > [twitter](https://twitter.com/xyznodes) [website](https://xyznodes.xyz)
