@@ -7,7 +7,7 @@
 - I prepare testnet guides, node installation guides, update guides of projects in Turkish language.
 - I’m interested in validating also i’m looking to collaborations to validate and provide value.
 
-### active testnets
+### testnets
 - [Namada](https://namada.net) - Testnet Genesis Validator
 - [ar.io Network](https://ar.io) - Testnet Validator
 - [Avail Project](https://www.availproject.org) - Testnet Validator
