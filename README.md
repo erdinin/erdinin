@@ -18,4 +18,4 @@
 - [PRYZM](https://pryzm.zone) - Testnet Validator
 
 ### Contact Me
-> [twitter](https://twitter.com/xyznodes) [website](https://xyznodes.xyz)
+> [twitter](https://twitter.com/xyznodes)
