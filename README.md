@@ -14,4 +14,4 @@
 - [PRYZM](https://pryzm.zone) - Testnet Validator
 
 ### Contact Me
-> [twitter](https://twitter.com/xyznodes)
+> [twitter](https://twitter.com/pleconodes)
