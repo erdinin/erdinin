@@ -12,10 +12,10 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 
 ## ⚡ I Actively Run Validator Nodes
 
-### 🌎 Mainnets
+### 🌎 Active Testnets
 - ⏳ *(Currently no active mainnet validator, but exploring opportunities!)*
 
-### 🟢 Active Testnets  
+### 🟢 Finished Testnets  
 I am currently running validator nodes in these testnets:
 
 - 🟢 [Namada](https://namada.net) - **Testnet Genesis Validator**
