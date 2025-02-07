@@ -18,21 +18,15 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 ### 🟢 Finished Testnets  
 I am currently running validator nodes in these testnets:
 
-- 🟢 [Namada](https://namada.net) - **Testnet Genesis Validator**
-- 🟢 [ar.io Network](https://ar.io) - **Testnet Validator**
-- 🟢 [Avail Project](https://www.availproject.org) - **Testnet Validator**
-- 🟢 [Subsquid Network](https://subsquid.io) - **Testnet Validator**
-- 🟢 [Santiment](https://sanr.network/) - **Testnet Validator**
-- 🟢 [Elixir](https://elixir.finance) - **Testnet Validator**
-- 🟢 [Dymension](https://dymension.xyz) - **Testnet Validator**
-- 🟢 [PRYZM](https://pryzm.zone) - **Testnet Validator**
-
-### 🔴 Upcoming Testnets  
-These are the networks I plan to validate soon:
-
-- 🔴 [Union](https://union.network) - **Application Submitted**
-- 🔴 [Berachain](https://berachain.com) - **Exploring Testnet Participation**
-
+- 🔴 [Namada](https://namada.net) - **Testnet Genesis Validator**
+- 🔴 [ar.io Network](https://ar.io) - **Testnet Validator**
+- 🔴 [Avail Project](https://www.availproject.org) - **Testnet Validator**
+- 🔴 [Subsquid Network](https://subsquid.io) - **Testnet Validator**
+- 🔴 [Santiment](https://sanr.network/) - **Testnet Validator**
+- 🔴 [Elixir](https://elixir.finance) - **Testnet Validator**
+- 🔴 [Dymension](https://dymension.xyz) - **Testnet Validator**
+- 🔴 [PRYZM](https://pryzm.zone) - **Testnet Validator**
+- 
 ---
 
 ## 📡 Contact Me
