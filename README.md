@@ -10,7 +10,12 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 
 ---
 
-## ⚡ Testnets I Participate In
+## ⚡ I Actively Run Validator Nodes
+
+### 🌎 Mainnets
+- ⏳ *(Currently no active mainnet validator, but exploring opportunities!)*
+
+### 🧪 Testnets
 I actively run validator nodes in the following testnets:
 
 - 🟢 [Namada](https://namada.net) - **Testnet Genesis Validator**
@@ -21,6 +26,18 @@ I actively run validator nodes in the following testnets:
 - 🧪 [Elixir](https://elixir.finance) - **Testnet Validator**
 - 🌐 [Dymension](https://dymension.xyz) - **Testnet Validator**
 - 🚀 [PRYZM](https://pryzm.zone) - **Testnet Validator**
+
+### 🔜 Upcoming
+These are the networks I plan to validate soon:
+
+- 🔥 [Union](https://union.network) - **Application Submitted**
+- 🐻 [Berachain](https://berachain.com) - **Exploring Testnet Participation**
+
+### 🏛️ Archived
+Previously participated testnets and retired validator roles:
+
+- ⏳ [Example Old Testnet](https://example.com) - **Completed Phase 1**
+- ⏳ [Another Old Chain](https://another.com) - **Retired Validator**
 
 ---
 
