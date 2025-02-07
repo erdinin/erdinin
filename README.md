@@ -33,12 +33,6 @@ These are the networks I plan to validate soon:
 - 🔥 [Union](https://union.network) - **Application Submitted**
 - 🐻 [Berachain](https://berachain.com) - **Exploring Testnet Participation**
 
-### 🏛️ Archived
-Previously participated testnets and retired validator roles:
-
-- ⏳ [Example Old Testnet](https://example.com) - **Completed Phase 1**
-- ⏳ [Another Old Chain](https://another.com) - **Retired Validator**
-
 ---
 
 ## 📡 Contact Me
