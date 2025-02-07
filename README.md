@@ -13,7 +13,7 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 ## ⚡ I Actively Run Validator Nodes
 
 ### 🌎 Active Testnets
-- ⏳ *(Currently no active mainnet validator, but exploring opportunities!)*
+- ⏳ *(Currently no active testnet validator, but exploring opportunities!)*
 
 ### 🟢 Finished Testnets  
 I am currently running validator nodes in these testnets:
