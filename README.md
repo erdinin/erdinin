@@ -9,8 +9,6 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 - 🚀 Exploring new blockchain projects and contributing to the PoS ecosystem.
 
 ---
-### 🌎 Mainnet
-- ⏳ *(Currently no active mainnet validator, but exploring opportunities!)*
  
 ### 🟢 Active Testnets
 - 🟢 [Gaia](https://docs.pleconodes.com/testnet/gaia) - **Gaia Node - Guide**
