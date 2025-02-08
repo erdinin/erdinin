@@ -10,8 +10,6 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 
 ---
 
-## ⚡ I Actively Run Validator Nodes
-
 ### 🟢 Active Testnets
 - 🟢 [Gaia](https://docs.pleconodes.com/testnet/gaia) - **Gaia Node - Guide**
 
