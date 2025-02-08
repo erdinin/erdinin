@@ -12,10 +12,10 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 
 ## ⚡ I Actively Run Validator Nodes
 
-### 🌎 Active Testnets
-- ⏳ *(Currently no active testnet validator, but exploring opportunities!)*
+### 🟢 Active Testnets
+- 🟢 [Gaia](https://docs.pleconodes.com/testnet/gaia) - **Gaia Node - Guide**
 
-### 🟢 Finished Testnets  
+### 🔴 Finished Testnets  
 I am currently running validator nodes in these testnets:
 
 - 🔴 [Namada](https://namada.net) - **Testnet Genesis Validator**
