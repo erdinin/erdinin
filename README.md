@@ -12,6 +12,7 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
  
 ### 🟢 Active Testnets
 - 🟢 [Gaia](https://docs.pleconodes.com/testnet/gaia) - **Gaia Node - Guide**
+- 🟢 [Union](https://docs.pleconodes.com/testnet/union) - **Union Ceremony**
 
 ### 🔴 Finished Testnets  
 I am currently running validator nodes in these testnets:
