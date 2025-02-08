@@ -26,7 +26,6 @@ I am currently running validator nodes in these testnets:
 - 🔴 [Elixir](https://elixir.finance) - **Testnet Validator**
 - 🔴 [Dymension](https://dymension.xyz) - **Testnet Validator**
 - 🔴 [PRYZM](https://pryzm.zone) - **Testnet Validator**
-- 
 ---
 
 ## 📡 Contact Me
