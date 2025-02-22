@@ -1,4 +1,4 @@
-<h2 align="center">👾 Welcome to Pleco Nodes 🧪</h2>
+<h2 align="center">👾 Welcome to pleconodes 🧪</h2>
 <h4 align="center">Passionate about decentralization, validator services, and Proof-of-Stake networks.</h4>
 
 ---
@@ -14,7 +14,7 @@ My mission is to **support decentralized ecosystems** by running validators, sec
 ---
 
 ## 🎯 My Contributions
-At **Pleco Nodes**, I am not just a node operator but an advocate for decentralization. I actively:  
+At **pleconodes**, I am not just a node operator but an advocate for decentralization. I actively:  
 
 ✅ **Deploy, monitor, and maintain PoS validator nodes** for different ecosystems.  
 ✅ **Write technical documentation** to help others set up and maintain nodes.  
