@@ -27,27 +27,27 @@ At **pleconodes**, I am not just a node operator but an advocate for decentraliz
 <table align="center">
   <tr>
     <td><strong>Processor</strong></td>
-    <td>AMD Ryzen™ 5 3600</td>
+    <td>AMD EPYC™ 7351P / Intel Xeon E5-2680 v4</td>
   </tr>
   <tr>
     <td><strong>RAM</strong></td>
-    <td>64 GB DDR4</td>
+    <td>128 GB ECC DDR4</td>
   </tr>
   <tr>
-    <td><strong>Disk</strong></td>
-    <td>2 x 512 GB NVMe SSD (RAID 1)</td>
+    <td><strong>Storage</strong></td>
+    <td>2 x 1 TB NVMe SSD (RAID 1) + 1 TB Backup</td>
   </tr>
   <tr>
-    <td><strong>Connection</strong></td>
-    <td>1 GBit/s port</td>
+    <td><strong>Network</strong></td>
+    <td>10 Gbps Port / Failover Load Balancer</td>
   </tr>
   <tr>
     <td><strong>Backup Space</strong></td>
-    <td>100 GB</td>
+    <td>1 TB Off-Site Encrypted Backup</td>
   </tr>
   <tr>
-    <td><strong>Location</strong></td>
-    <td>Finland, Germany</td>
+    <td><strong>Data Centers</strong></td>
+    <td>Germany, Finland, Singapore, Turkey (Hetzner, OVH, Vultr)</td>
   </tr>
 </table>
 
@@ -56,12 +56,22 @@ At **pleconodes**, I am not just a node operator but an advocate for decentraliz
 ## 🔗 My Experience in Networks
 <table align="center">
   <tr>
-    <td><strong>Active Testnets</strong></td>
-    <td>Cosmos, Namada, Dymension, Massa</td>
+    <td>Namada</td>
+    <td>Aptos</td>
+    <td>Gaia</td>
+    <td>Dymension</td>
+    <td>Massa</td>
+    <td>Union</td>
+    <td>Manta</td>
   </tr>
   <tr>
-    <td><strong>Past Networks</strong></td>
-    <td>Aleo, Aptos, Sui, Quasar, Stride</td>
+    <td>Stride</td>
+    <td>Nibiru</td>
+    <td>Sui</td>
+    <td>Dusk</td>
+    <td>Quasar</td>
+    <td>Sarcophagus</td>
+    <td>Erbie</td>
   </tr>
 </table>
 
