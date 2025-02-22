@@ -63,15 +63,18 @@ At **pleconodes**, I am not just a node operator but an advocate for decentraliz
     <td>Massa</td>
     <td>Union</td>
     <td>Manta</td>
-  </tr>
-  <tr>
     <td>Stride</td>
     <td>Nibiru</td>
+  </tr>
+  <tr>
     <td>Sui</td>
     <td>Dusk</td>
     <td>Quasar</td>
-    <td>Sarcophagus</td>
-    <td>Erbie</td>
+    <td>Atone</td>
+    <td>Sei</td>
+    <td>Hemi</td>
+    <td>Sunrise</td>
+    <td>Nexus</td>
   </tr>
 </table>
 
