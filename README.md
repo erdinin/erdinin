@@ -9,23 +9,6 @@ My goal is to support decentralized ecosystems by validating, running nodes, and
 - 🚀 Exploring new blockchain projects and contributing to the PoS ecosystem.
 
 ---
- 
-### 🟢 Active Testnets
-- 🟢 [Gaia](https://docs.pleconodes.com/testnet/gaia) - **Gaia Node - Guide**
-- 🟢 [Union](https://docs.pleconodes.com/testnet/union) - **Union Ceremony**
-
-### 🔴 Finished Testnets  
-I am currently running validator nodes in these testnets:
-
-- 🔴 [Namada](https://namada.net) - **Testnet Genesis Validator**
-- 🔴 [ar.io Network](https://ar.io) - **Testnet Validator**
-- 🔴 [Avail Project](https://www.availproject.org) - **Testnet Validator**
-- 🔴 [Subsquid Network](https://subsquid.io) - **Testnet Validator**
-- 🔴 [Santiment](https://sanr.network/) - **Testnet Validator**
-- 🔴 [Elixir](https://elixir.finance) - **Testnet Validator**
-- 🔴 [Dymension](https://dymension.xyz) - **Testnet Validator**
-- 🔴 [PRYZM](https://pryzm.zone) - **Testnet Validator**
----
 
 ## 📡 Contact Me
 📩 Feel free to reach out to me through:
