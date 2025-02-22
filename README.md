@@ -75,6 +75,7 @@ At **pleconodes**, I am not just a node operator but an advocate for decentraliz
     <td>Hemi</td>
     <td>Sunrise</td>
     <td>Nexus</td>
+    <td>Sahara</td>
   </tr>
 </table>
 
